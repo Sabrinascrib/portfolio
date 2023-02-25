@@ -1,2 +1,1 @@
-New portfolio is coming soon.
-
+old portfolio/ not used
