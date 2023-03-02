@@ -1,1 +1,1 @@
-old portfolio/ not used
+old portfolio/ not used anymore
